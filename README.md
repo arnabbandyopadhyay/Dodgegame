@@ -10,6 +10,7 @@ In **Dodge the Blocks**, blue square (the player) at the bottom of the screen. R
 2. Install the Pygame library:
 ```bash
 pip install pygame
+```
 3. Download or clone this repository.
 4. Run the game:
 ```bash
