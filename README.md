@@ -6,7 +6,7 @@
 In **Dodge the Blocks**, blue square (the player) at the bottom of the screen. Red blocks fall from the top. Avoid getting hit by red blocks to survive and increase your score. The game ends immediately if the player hits with any red block.
 ## Installation
 
-1. **Python 3.x** is necessary.  
+1. Python 3.x is necessary.  
 2. Install the Pygame library:
 ```bash
 pip install pygame
