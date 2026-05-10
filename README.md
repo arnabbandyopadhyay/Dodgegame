@@ -15,6 +15,7 @@ pip install pygame
 4. Run the game:
 ```bash
 python Dodgemame.py
+```
 
 ## Controls
 Left Arrow: Move player left
