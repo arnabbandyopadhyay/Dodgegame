@@ -18,6 +18,6 @@ python Dodgemame.py
 ```
 
 ## Controls
-Left Arrow: Move player left
-Right Arrow: Move player right
-Close Window / Quit: Exit the game
+1. Left Arrow: Move player left
+2. Right Arrow: Move player right
+3. Close Window / Quit: Exit the game
